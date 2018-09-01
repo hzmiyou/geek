@@ -45,3 +45,6 @@
 * fd
 > ```find``` 的语法太难记了，```fd```好用很多，显示还带高亮:
 ![fd](https://www.kawabangga.com/wp-content/uploads/2018/09/fd-1024x668.png)
+
+**如果对笔者分享的内容还是比较感兴趣的，可以加以下群，笔者会定期分享自己9年IT从业的经验**
+![q](http://hzmiyou.com/img/v2ex/q.jpeg)
